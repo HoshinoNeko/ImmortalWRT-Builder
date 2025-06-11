@@ -129,6 +129,7 @@ config_package_add luci-app-ttyd
 # kms
 # config_package_add luci-app-vlmcsd
 
+config_package_add keepalived
 config_package_add luci-app-tailscale
 config_package_add luci-app-wolplus
 config_package_add luci-app-mosdns
